@@ -1,3 +1,11 @@
 Maroga-Cassa
 
-stacks: Next.js, React 19, TypeScript, Jest, Prisma + PostgreSQ, Clerk Auth, Tailwind CSS + ShadCN
+Stacks: Next.js 15 (App router), React.js 19,
+Dev Dependency: TypeScript, PostCSS
+Lintering: Eslint, Husky (pre commit), Prettier
+Unit Testing: Jest,
+Database (Serverless DB), Fetching, Catching: Prisma + PostgreSQ, React Query,
+User Management: Clerk Auth, 2 Factory Authentication,
+UI: Tailwind CSS + ShadCN,
+SEO: Dynamic Metadata
+Deployment: Vercel
