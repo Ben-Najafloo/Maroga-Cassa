@@ -15,8 +15,7 @@ export type Product = {
   };
 };
 
-
-export default function ProductDetaid(product:Product) {
+export default function ProductDetaid(product: Product) {
   return (
     <>
       <section className="relative pt-4">
