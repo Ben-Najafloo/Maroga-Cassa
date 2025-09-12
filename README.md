@@ -2,6 +2,7 @@ Maroga-Cassa
 
 Stacks: Next.js 15 (App router), React.js 19,
 Dev Dependency: TypeScript, PostCSS
+Routing: Parallel routes, Intercepted
 Lintering: Eslint, Husky (pre commit), Prettier
 Unit Testing: Jest,
 Database (Serverless DB), Fetching, Catching: Prisma + PostgreSQ, React Query,
